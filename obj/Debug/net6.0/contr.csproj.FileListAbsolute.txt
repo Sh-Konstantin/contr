@@ -1,0 +1,15 @@
+C:\Users\Константин\Desktop\Lesson\contr\contr\bin\Debug\net6.0\contr.exe
+C:\Users\Константин\Desktop\Lesson\contr\contr\bin\Debug\net6.0\contr.deps.json
+C:\Users\Константин\Desktop\Lesson\contr\contr\bin\Debug\net6.0\contr.runtimeconfig.json
+C:\Users\Константин\Desktop\Lesson\contr\contr\bin\Debug\net6.0\contr.dll
+C:\Users\Константин\Desktop\Lesson\contr\contr\bin\Debug\net6.0\contr.pdb
+C:\Users\Константин\Desktop\Lesson\contr\contr\obj\Debug\net6.0\contr.csproj.AssemblyReference.cache
+C:\Users\Константин\Desktop\Lesson\contr\contr\obj\Debug\net6.0\contr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Константин\Desktop\Lesson\contr\contr\obj\Debug\net6.0\contr.AssemblyInfoInputs.cache
+C:\Users\Константин\Desktop\Lesson\contr\contr\obj\Debug\net6.0\contr.AssemblyInfo.cs
+C:\Users\Константин\Desktop\Lesson\contr\contr\obj\Debug\net6.0\contr.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\Lesson\contr\contr\obj\Debug\net6.0\contr.dll
+C:\Users\Константин\Desktop\Lesson\contr\contr\obj\Debug\net6.0\refint\contr.dll
+C:\Users\Константин\Desktop\Lesson\contr\contr\obj\Debug\net6.0\contr.pdb
+C:\Users\Константин\Desktop\Lesson\contr\contr\obj\Debug\net6.0\contr.genruntimeconfig.cache
+C:\Users\Константин\Desktop\Lesson\contr\contr\obj\Debug\net6.0\ref\contr.dll
