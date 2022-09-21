@@ -2,13 +2,13 @@ string[] array1 = new string[4] {"one", "two", "four", "seven"};
 string[] array2 = new string[array1.Length];
 void ACT_1(string[] array1, string[] array2)
 {
-    int ElementArry = 0;
+    int ElementArray = 0;
     for (int Leng = 0; Leng < array1.Length; Leng++)
     {
     if(array1[Leng].Length<= 3)
         {
-        array2[ElementArry] = array1[Leng];
-        ElementArry++;
+        array2[ElementArray] = array1[Leng];
+        ElementArray++;
         }
     }
 }
